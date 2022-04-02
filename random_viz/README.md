@@ -1,3 +1,3 @@
 ### chart()
-![](plots/chart.R)
+![](plots/chart.png)
 
